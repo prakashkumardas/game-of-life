@@ -207,10 +207,7 @@
     </dependencies>
     
     <distributionManagement>
-  <repository>
-    <id>release</id>
-    <url>http://13.126.211.173:8081/repository/prakashrelease/</url>
-  </repository>
+
         
         <repository>
     <id>SNAPSHOT</id>
