@@ -15,6 +15,14 @@
 			
 			<excludes>
             <exclude>target/**</exclude>
+	   <exclude>pom.xml</exclude>
+	    <exclude>assembly.xml</exclude>
+	    <exclude>gameoflife-build/**</exclude>			
+				
+			
+				
+				
+				
   </excludes>
 		</fileSet>
 	</fileSets>
