@@ -12,10 +12,7 @@
 			<directory></directory>
 			<useDefaultExcludes>true</useDefaultExcludes>
 			<outputDirectory>./</outputDirectory>
-			<includes>
-				<include>file*</include>
-				<include>*</include>
-			</includes>
+			
 			<excludes>
             <exclude>target/**</exclude>
   </excludes>
